@@ -57,3 +57,4 @@ function fadeOut() {
 
 // cancelAnimationFrame(request) 
 //stop the animation
+//doh
